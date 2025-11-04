@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-25T14:26:33 IST" name="Default suite" finished-at="2025-03-25T14:27:37 IST" duration-ms="63440">
+    <groups>
+    </groups>
+    <test started-at="2025-03-25T14:26:33 IST" name="Default test" finished-at="2025-03-25T14:27:37 IST" duration-ms="63440">
+      <class name="Employee.EmployeeStatusTest">
+        <test-method is-config="true" signature="BS()[pri:0, instance:Employee.EmployeeStatusTest@506ae4d4]" started-at="2025-03-25T14:26:33 IST" name="BS" finished-at="2025-03-25T14:26:33 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method is-config="true" signature="BT()[pri:0, instance:Employee.EmployeeStatusTest@506ae4d4]" started-at="2025-03-25T14:26:33 IST" name="BT" finished-at="2025-03-25T14:26:33 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method is-config="true" signature="BC()[pri:0, instance:Employee.EmployeeStatusTest@506ae4d4]" started-at="2025-03-25T14:26:33 IST" name="BC" finished-at="2025-03-25T14:27:23 IST" duration-ms="50126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:Employee.EmployeeStatusTest@506ae4d4]" started-at="2025-03-25T14:27:23 IST" name="BM" finished-at="2025-03-25T14:27:33 IST" duration-ms="10214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="EmpStatusTest()[pri:0, instance:Employee.EmployeeStatusTest@506ae4d4]" started-at="2025-03-25T14:27:34 IST" name="EmpStatusTest" finished-at="2025-03-25T14:27:36 IST" duration-ms="2994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmpStatusTest -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:Employee.EmployeeStatusTest@506ae4d4]" started-at="2025-03-25T14:27:37 IST" name="AM" finished-at="2025-03-25T14:27:37 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:Employee.EmployeeStatusTest@506ae4d4]" started-at="2025-03-25T14:27:37 IST" name="AC" finished-at="2025-03-25T14:27:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:Employee.EmployeeStatusTest@506ae4d4]" started-at="2025-03-25T14:27:37 IST" name="AT" finished-at="2025-03-25T14:27:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method is-config="true" signature="AS()[pri:0, instance:Employee.EmployeeStatusTest@506ae4d4]" started-at="2025-03-25T14:27:37 IST" name="AS" finished-at="2025-03-25T14:27:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- Employee.EmployeeStatusTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
